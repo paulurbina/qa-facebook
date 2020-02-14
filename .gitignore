@@ -1,1 +1,3 @@
-node_modules
+socket-server/node_modules
+socket-client/node_modules
+qa-facebook/node_modules
